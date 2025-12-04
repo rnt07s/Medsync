@@ -9,7 +9,7 @@
 [![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-6.x-green.svg)](https://www.mongodb.com/)
 
-[Live Demo](https://medi-connect-in.netlify.app) • [Report Bug](https://github.com/YourUsername/MedSync/issues) • [Request Feature](https://github.com/YourUsername/MedSync/issues)
+[Live Demo](https://medi-connect-in.netlify.app) • [Report Bug](https://github.com/rnt07s/Medsync/issues) • [Request Feature](https://github.com/rtn07s/Medsync/issues)
 
 </div>
 
